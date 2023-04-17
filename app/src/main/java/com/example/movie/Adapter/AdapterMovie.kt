@@ -8,12 +8,7 @@ import android.widget.ImageView
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 import com.example.movie.R
-import model.Movie
-
-private var Any.text: String
-    get() {}
-    set(B){}
-
+import com.example.movie.model.Movie
 
 class AdapterMovie(private val context: Context, private val movies: MutableList<Movie>): RecyclerView.Adapter<AdapterMovie.MovieViewHolder>() {
 
@@ -25,6 +20,9 @@ class AdapterMovie(private val context: Context, private val movies: MutableList
 
     }
 
+
+    override fun getItemCount(): Int = movies.size
+
     override fun onBindViewHolder(holder: MovieViewHolder, position: Int) {
         holder.photo.setImageResource(movies[position].photo)
         holder.name.text = movies[position].name
@@ -32,10 +30,7 @@ class AdapterMovie(private val context: Context, private val movies: MutableList
         holder.seats.text = movies[position].seats
     }
 
-    override fun getItemCount(): Int {
-        movies.size
-
-        class MovieViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {
+        inner class MovieViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {
 
             val photo = itemView.findViewById<ImageView>(R.id.photoMovie)
             val name = itemView.findViewById<TextView>(R.id.nameMovie)
@@ -44,4 +39,3 @@ class AdapterMovie(private val context: Context, private val movies: MutableList
 
         }
     }
-}

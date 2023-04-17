@@ -5,13 +5,14 @@ import android.os.Bundle
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.example.movie.Adapter.AdapterMovie
-import model.Movie
+import com.example.movie.model.Movie
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+        supportActionBar!!.hide()
         val RecyclerView_movies = findViewById<RecyclerView>(R.id.recyclerView_movies)
         RecyclerView_movies.layoutManager = LinearLayoutManager(this)
         RecyclerView_movies.setHasFixedSize(true)
