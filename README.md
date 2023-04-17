@@ -27,10 +27,13 @@
     - [ ] 3.3. Use original movie images from myvue.com or your favourite provider (Hint: check get_movie_image_url.gif (provided on Moodle))
 
 ## Report
-The development of the Mobile Apps project was carried out with many difficulties, and it was not even possible to carry out all the steps.
-I understand that using the Android Studio tool is necessary, but quite complex, which would require a little more learning to correctly handle all the mechanisms offered by the tool.
-I started the project three times, and only on the third time was I able to move forward with the creation of the RecyclerView, which was carried out with the help of online classes (link below), and unfortunately due to an error that I was unable to correct, it was not possible to display the app in operation on the Emulator.
-I believe that content is extremely important and for that reason we need more learning time and practice.
+
+The development of the Mobile Apps project has been a challenging experience for the project developer. Several difficulties were encountered and, despite several attempts, it was not possible to complete all stages. The main obstacle was the complexity of using the Android Studio tool, which required significant learning to operate correctly.
+Despite the challenges faced, it was only possible to significantly advance in the third attempt with the help of online classes the creation of RecyclerView, which is a vital component in the development of mobile applications.
+Despite the hard work and dedication to the project, an error was identified that I was unable to correct. Unfortunately, this issue made it impossible to see the application running on the emulator.
+I believe that design is crucial in mobile app development and as such more learning and practice time is needed.
+In conclusion, the development of the Mobile Apps project encountered several obstacles that hindered its implementation. The complexity of using the Android Studio tool and the need for more time to learn and practice contributed to the difficulties of the project. Despite the setbacks faced, the lessons learned from this experience will be useful in future mobile application development projects.
+
 
 ## References and Credits
 
