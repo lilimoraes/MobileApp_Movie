@@ -27,8 +27,10 @@
     - [ ] 3.3. Use original movie images from myvue.com or your favourite provider (Hint: check get_movie_image_url.gif (provided on Moodle))
 
 ## Report
-
-
+The development of the Mobile Apps project was carried out with many difficulties, and it was not even possible to carry out all the steps.
+I understand that using the Android Studio tool is necessary, but quite complex, which would require a little more learning to correctly handle all the mechanisms offered by the tool.
+I started the project three times, and only on the third time was I able to move forward with the creation of the RecyclerView, which was carried out with the help of online classes (link below), and unfortunately due to an error that I was unable to correct, it was not possible to display the app in operation on the Emulator.
+I believe that content is extremely important and for that reason we need more learning time and practice.
 
 ## References and Credits
 
