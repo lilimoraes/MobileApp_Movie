@@ -28,6 +28,11 @@
 
 ## Report
 
+The development of the Mobile Apps project has been a challenging experience for the project developer. Several difficulties were encountered and, despite several attempts, it was not possible to complete all stages. The main obstacle was the complexity of using the Android Studio tool, which required significant learning to operate correctly.
+Despite the challenges faced, it was only possible to significantly advance in the third attempt with the help of online classes the creation of RecyclerView, which is a vital component in the development of mobile applications.
+Despite the hard work and dedication to the project, an error was identified that I was unable to correct. Unfortunately, this issue made it impossible to see the application running on the emulator.
+I believe that design is crucial in mobile app development and as such more learning and practice time is needed.
+In conclusion, the development of the Mobile Apps project encountered several obstacles that hindered its implementation. The complexity of using the Android Studio tool and the need for more time to learn and practice contributed to the difficulties of the project. Despite the setbacks faced, the lessons learned from this experience will be useful in future mobile application development projects.
 
 
 ## References and Credits
