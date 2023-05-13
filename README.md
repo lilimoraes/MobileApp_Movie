@@ -37,6 +37,11 @@ In conclusion, the development of the Mobile Apps project encountered several ob
 Screenshot recording
 [Link](https://dorsetdemo-my.sharepoint.com/:v:/g/personal/24064_student_dorset-college_ie/EVnLAeDUo-BPi0FUEQxk5bcBtrcyBRdWbQ2kidt8bBN9aw?e=RVAcgC)
 
+https://dorsetdemo-my.sharepoint.com/:v:/g/personal/24064_student_dorset-college_ie/EVnLAeDUo-BPi0FUEQxk5bcBtrcyBRdWbQ2kidt8bBN9aw
+
+![image](https://github.com/lilimoraes/MobileApp_Movie/assets/108881413/eae32b2b-6eb2-43c3-ac1e-944e0ec45c4c)
+
+
 ## References and Credits
 
 1. Android Studio - Criando uma Lista de Produtos com RecyclerView. URL: [Link](https://www.youtube.com/watch?v=UT4b6mWeL4A)
